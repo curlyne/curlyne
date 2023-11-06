@@ -2,7 +2,6 @@
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning java script
 - 💻 Technical Skills: java script, python 
-- 💞️ I’m looking to collaborate on other professionals
 - 📫 How to reach me... 
 
 <!---
